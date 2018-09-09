@@ -1,4 +1,4 @@
-#replication of png binary file
+#converting of png binary file
 buff=60000
 
 file=open("F:\\lco py3\\sample.png",'rb')
